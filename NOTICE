@@ -1,0 +1,8 @@
+LIGHT — the photonic programming language — is Thomas Frumkin's work.
+The original: https://github.com/teslasolar/light (created 2026-08-05; package.json declares MIT, author Thomas Frumkin).
+This repository is the AI-Native Solutions estate's fork of it, used with permission and kept in step with the original.
+Powered by the Konomi architecture, created by Thomas Frumkin.
+
+The estate uses LIGHT as the runtime under the Konomi Tongue (https://github.com/sjgant80-hub/konomi-tongue): its prime-indexed
+opcodes, rings and buses feed the Tongue's legend, and its templates (a whole program called by name) are the model for the
+Tongue's shared dictionary.

@@ -1,5 +1,7 @@
 # LIGHT
 
+> Thomas Frumkin's LIGHT ([teslasolar/light](https://github.com/teslasolar/light)), forked into the AI-Native Solutions estate with permission. Powered by the Konomi architecture, created by Thomas Frumkin. See NOTICE.
+
 The photonic programming language. 38 emoji opcodes. 888 registers. 7 rings. 5 buses.
 
 ```
